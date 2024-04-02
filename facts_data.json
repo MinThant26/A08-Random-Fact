@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "fact": "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion."
+    },
+    {
+        "id": 2,
+        "fact": "Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible."
+    },
+    {
+        "id": 3,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 4,
+        "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+        "id": 5,
+        "fact": "The unicorn is the national animal of Scotland."
+    },
+    {
+        "id": 6,
+        "fact": "Octopuses have three hearts."
+    },
+    {
+        "id": 7,
+        "fact": "The electric chair was invented by a dentist."
+    },
+    {
+        "id": 8,
+        "fact": "Bananas are berries, but strawberries aren't."
+    },
+    {
+        "id": 9,
+        "fact": "The shortest complete sentence in the English language is \"I am.\""
+    },
+    {
+        "id": 10,
+        "fact": "Koalas sleep around 18 hours a day."
+    },
+    {
+        "id": 11,
+        "fact": "The first computer virus was created in 1983 and was called the \"Elk Cloner.\""
+    },
+    {
+        "id": 12,
+        "fact": "The shortest war in recorded history lasted only 38 minutes."
+    },
+    {
+        "id": 13,
+        "fact": "The shortest poem in the world is \"Fleas\" by Ogden Nash. It reads: \"Adam had 'em.\""
+    },
+    {
+        "id": 14,
+        "fact": "Sea otters hold hands while sleeping to keep from drifting apart."
+    },
+    {
+        "id": 15,
+        "fact": "The human brain is more active during sleep than it is while watching TV."
+    },
+    {
+        "id": 16,
+        "fact": "The word \"nerd\" was first coined by Dr. Seuss in \"If I Ran the Zoo.\""
+    },
+    {
+        "id": 17,
+        "fact": "Bees can recognize human faces."
+    },
+    {
+        "id": 18,
+        "fact": "Penguins propose to their lifemates with a pebble."
+    },
+    {
+        "id": 19,
+        "fact": "The first oranges weren't orange; they were green."
+    },
+    {
+        "id": 20,
+        "fact": "Mount Everest is not the tallest mountain in the world when measured from base to summit. That honor goes to Mauna Kea in Hawaii."
+    },
+    {
+        "id": 21,
+        "fact": "The shortest war in history lasted only 38 minutes."
+    },
+    {
+        "id": 22,
+        "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+        "id": 23,
+        "fact": "There are more possible iterations of a game of chess than there are atoms in the known universe."
+    },
+    {
+        "id": 24,
+        "fact": "A flock of crows is known as a murder."
+    },
+    {
+        "id": 25,
+        "fact": "Marie Curie's notebooks are still radioactive."
+    },
+    {
+        "id": 26,
+        "fact": "The world's largest snowflake was 15 inches wide and 8 inches thick."
+    },
+    {
+        "id": 27,
+        "fact": "There are more plastic flamingos in the United States than real ones."
+    },
+    {
+        "id": 28,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 29,
+        "fact": "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+        "id": 30,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 31,
+        "fact": "Sea otters hold hands while sleeping to keep from drifting apart."
+    },
+    {
+        "id": 32,
+        "fact": "Bananas are berries."
+    },
+    {
+        "id": 33,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 34,
+        "fact": "The human brain is more active during sleep than it is while watching TV."
+    },
+    {
+        "id": 35,
+        "fact": "Octopuses have three hearts."
+    },
+    {
+        "id": 36,
+        "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+        "id": 37,
+        "fact": "The unicorn is the national animal of Scotland."
+    },
+    {
+        "id": 38,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 39,
+        "fact": "Penguins propose to their lifemates with a pebble."
+    },
+    {
+        "id": 40,
+        "fact": "The first oranges weren't orange; they were green."
+    },
+    {
+        "id": 41,
+        "fact": "Mount Everest is not the tallest mountain in the world when measured from base to summit. That honor goes to Mauna Kea in Hawaii."
+    },
+    {
+        "id": 42,
+        "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+        "id": 43,
+        "fact": "Bees can recognize human faces."
+    },
+    {
+        "id": 44,
+        "fact": "The shortest war in history lasted only 38 minutes."
+    },
+    {
+        "id": 45,
+        "fact": "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+        "id": 46,
+        "fact": "Marie Curie's notebooks are still radioactive."
+    },
+    {
+        "id": 47,
+        "fact": "The world's largest snowflake was 15 inches wide and 8 inches thick."
+    },
+    {
+        "id": 48,
+        "fact": "There are more plastic flamingos in the United States than real ones."
+    },
+    {
+        "id": 49,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 50,
+        "fact": "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion."
+    },
+    {
+        "id": 51,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 52,
+        "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+        "id": 53,
+        "fact": "The unicorn is the national animal of Scotland."
+    },
+    {
+        "id": 54,
+        "fact": "Octopuses have three hearts."
+    },
+    {
+        "id": 55,
+        "fact": "The electric chair was invented by a dentist."
+    },
+    {
+        "id": 56,
+        "fact": "Bananas are berries, but strawberries aren't."
+    },
+    {
+        "id": 57,
+        "fact": "The shortest complete sentence in the English language is \"I am.\""
+    },
+    {
+        "id": 58,
+        "fact": "Koalas sleep around 18 hours a day."
+    },
+    {
+        "id": 59,
+        "fact": "The first computer virus was created in 1983 and was called the \"Elk Cloner.\""
+    },
+    {
+        "id": 60,
+        "fact": "The shortest war in recorded history lasted only 38 minutes."
+    },
+    {
+        "id": 61,
+        "fact": "The shortest poem in the world is \"Fleas\" by Ogden Nash. It reads: \"Adam had 'em.\""
+    },
+    {
+        "id": 62,
+        "fact": "Sea otters hold hands while sleeping to keep from drifting apart."
+    },
+    {
+        "id": 63,
+        "fact": "The human brain is more active during sleep than it is while watching TV."
+    },
+    {
+        "id": 64,
+        "fact": "The word \"nerd\" was first coined by Dr. Seuss in \"If I Ran the Zoo.\""
+    },
+    {
+        "id": 65,
+        "fact": "Bees can recognize human faces."
+    },
+    {
+        "id": 66,
+        "fact": "Penguins propose to their lifemates with a pebble."
+    },
+    {
+        "id": 67,
+        "fact": "The first oranges weren't orange; they were green."
+    },
+    {
+        "id": 68,
+        "fact": "Mount Everest is not the tallest mountain in the world when measured from base to summit. That honor goes to Mauna Kea in Hawaii."
+    },
+    {
+        "id": 69,
+        "fact": "The shortest war in history lasted only 38 minutes."
+    },
+    {
+        "id": 70,
+        "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+        "id": 71,
+        "fact": "The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 72,
+        "fact": "There are more possible iterations of a game of chess than there are atoms in the known universe."
+    },
+    {
+        "id": 73,
+        "fact": "A flock of crows is known as a murder."
+    },
+    {
+        "id": 74,
+        "fact": "Marie Curie's notebooks are still radioactive."
+    },
+    {
+        "id": 75,
+        "fact": "The world's largest snowflake was 15 inches wide and 8 inches thick."
+    },
+    {
+        "id": 76,
+        "fact": "There are more plastic flamingos in the United States than real ones."
+    },
+    {
+        "id": 77,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 78,
+        "fact": "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+        "id": 79,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 80,
+        "fact": "Sea otters hold hands while sleeping to keep from drifting apart."
+    },
+    {
+        "id": 81,
+        "fact": "Bananas are berries."
+    },
+    {
+        "id": 82,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    },
+    {
+        "id": 83,
+        "fact": "The human brain is more active during sleep than it is while watching TV."
+    },
+    {
+        "id": 84,
+        "fact": "Octopuses have three hearts."
+    },
+    {
+        "id": 85,
+        "fact": "A group of flamingos is called a flamboyance."
+    },
+    {
+        "id": 86,
+        "fact": "The unicorn is the national animal of Scotland."
+    },
+    {
+        "id": 87,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 88,
+        "fact": "Penguins propose to their lifemates with a pebble."
+    },
+    {
+        "id": 89,
+        "fact": "The first oranges weren't orange; they were green."
+    },
+    {
+        "id": 90,
+        "fact": "Mount Everest is not the tallest mountain in the world when measured from base to summit. That honor goes to Mauna Kea in Hawaii."
+    },
+    {
+        "id": 91,
+        "fact": "A crocodile cannot stick its tongue out."
+    },
+    {
+        "id": 92,
+        "fact": "Bees can recognize human faces."
+    },
+    {
+        "id": 93,
+        "fact": "The shortest war in history lasted only 38 minutes."
+    },
+    {
+        "id": 94,
+        "fact": "The average person will spend six months of their life waiting for red lights to turn green."
+    },
+    {
+        "id": 95,
+        "fact": "Marie Curie's notebooks are still radioactive."
+    },
+    {
+        "id": 96,
+        "fact": "The world's largest snowflake was 15 inches wide and 8 inches thick."
+    },
+    {
+        "id": 97,
+        "fact": "There are more plastic flamingos in the United States than real ones."
+    },
+    {
+        "id": 98,
+        "fact": "Honey never spoils."
+    },
+    {
+        "id": 99,
+        "fact": "The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion."
+    },
+    {
+        "id": 100,
+        "fact": "The shortest war in history was between Britain and Zanzibar on August 27, 1896. Zanzibar surrendered after 38 minutes."
+    }
+]

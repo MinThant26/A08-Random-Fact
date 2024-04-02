@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+    background-color: #008080;
+}
+.warper{
+    width: 100%;
+    max-width: 570px;
+    padding: 30px;
+    border-radius: 24px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 10px white;
+}
+.warper .header{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.warper .display-fact{
+    font-size: 30px;
+    margin: 50px 0;
+    font-weight: bold;
+}
+.warper .console{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.console .display-fact-id{
+    text-align: left;
+}
+.console button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 24px;
+    background-color: cornflowerblue;
+    color: white;
+    cursor: pointer;
+}

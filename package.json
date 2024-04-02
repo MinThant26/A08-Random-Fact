@@ -1,0 +1,17 @@
+{
+  "name": "a08-first-restful-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^8.2.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
